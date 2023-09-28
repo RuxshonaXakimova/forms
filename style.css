@@ -32,3 +32,18 @@ input{
 .none{
     display: none;
 }
+
+button{
+    background-color: blue;
+    color: white;
+    width: 200px;
+    height: 40px;
+    margin-left: 240px;
+}
+
+.results{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+}
